@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div class="login">
-		<div class="top"><h1 class="bt">学生管理系统</h1>
+		<div class="top"><h1 class="bt">校园管理系统</h1>
 	</div>
 		<div class="center">
 		<h1 style="text-align: ceneter;margin:auto;">${msg }</h1>
