@@ -18,7 +18,7 @@
 </head>
 <body>
 	<div class="login">
-		<div class="top"><h1><a href="/studentManageSystem/student/index.jsp"><img src="../img/logo.png"></a></h1><h2>学生管理系统</h2> <br><br><span style="float:right; padding-right:20px;" class="head"><span style="color:red; font-weight:bold;">学生：${user.userName }&nbsp;</span>您好&nbsp;&nbsp;&nbsp;<a href="../LoginServlet?temp=logout">安全退出</a></span>
+		<div class="top"><h1><a href="/studentManageSystem/student/index.jsp"><img src="../img/logo.png"></a></h1><h2>校园管理系统</h2> <br><br><span style="float:right; padding-right:20px;" class="head"><span style="color:red; font-weight:bold;">学生：${user.userName }&nbsp;</span>您好&nbsp;&nbsp;&nbsp;<a href="../LoginServlet?temp=logout">安全退出</a></span>
 </div>
 		<div class="center">
 		<!--导航菜单 -->
